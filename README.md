@@ -8,8 +8,9 @@ Please find the files:
 3. Jupyter Notebook: Sanam_Afshar_DA301_Assignment_Notebook.ipynb (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/blob/main/Sanam_Afshar_DA301_Assignment_Notebook.ipynb)
 4. Presentation Video files: Please refer to the "Releases" section on the right-hand side "Presentation_Video_Audio" (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/tag/video_files)
 
-5. Data files:
-5.1. turtle_reviews.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_reviews.csv)
-5.2. turtle_sales.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_sales.csv)
-5.3. turtle_reviews_sales.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_reviews_sales.csv)
-5.4. metadata_turtle_games.txt (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/metadata_turtle_games.txt)
+Data files:
+
+5. turtle_reviews.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_reviews.csv)
+6. turtle_sales.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_sales.csv)
+7. turtle_reviews_sales.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_reviews_sales.csv)
+8. metadata_turtle_games.txt (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/metadata_turtle_games.txt)
