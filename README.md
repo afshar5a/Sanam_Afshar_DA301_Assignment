@@ -1,19 +1,20 @@
-# LSE DA301 Assignment — Predicting Future Outcomes
+# Sanam_Afshar_DA301_Assignment
+LSE Assignment Course-3: Predicting future outcomes
 
-**Author:** Afshar Sanam  
-**Institution:** London School of Economics and Political Science (LSE)  
-**Programme:** Data Analytics  
-**Assignment:** Course 3 — Predicting Future Outcomes
+Please find the files:
 
-This repository contains the analytical work, Python notebook, R script, report, visualisations, supporting data and presentation materials prepared for the DA301 assignment.
+1. Project Report: Sanam_Afshar_DA301_Assignment_Report.pdf (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/blob/main/Sanam_Afshar_DA301_Assignment_Report.pdf)
+2. Jupyter Notebook: Sanam_Afshar_DA301_Assignment_Notebook.ipynb (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/blob/main/Sanam_Afshar_DA301_Assignment_Notebook.ipynb)
+3. R Script Notebook: Sanam_Afshar_DA301_Assignment_RScript.R (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/blob/main/Sanam_Afshar_DA301_Assignment_RScript.R)
+4. Presentation Video file (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/Sanam_Afshar_DA301_Assignment_Presentation.mp4)
+Audio file: https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/Sanam_Afshar_DA301_Assignment_Presentation-audio.m4a
 
-## Project materials
+Data files:
 
-1. [Project report](https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/blob/main/Sanam_Afshar_DA301_Assignment_Report.pdf)
-2. [Jupyter Notebook](https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/blob/main/Sanam_Afshar_DA301_Assignment_Notebook.ipynb)
-3. [R script](https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/blob/main/Sanam_Afshar_DA301_Assignment_RScript.R)
-4. [Presentation recording](https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/Sanam_Afshar_DA301_Assignment_Presentation.mp4)
+5. turtle_reviews.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_reviews.csv)
+6. turtle_sales.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_sales.csv)
+7. turtle_reviews_sales.csv (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/turtle_reviews_sales.csv)
+8. metadata_turtle_games.txt (https://github.com/afshar5a/Sanam_Afshar_DA301_Assignment/releases/download/v1.0/metadata_turtle_games.txt)
 
-## Analysis artefacts
-
-The repository also contains the datasets and plots generated or used during the assignment, including sales, review, correlation, distribution and regression visualisations.
+Plots/Graphs: 
+*.png files
